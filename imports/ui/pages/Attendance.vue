@@ -1,7 +1,6 @@
 <template>
   <div class="#">
     <Attendance />
-    <div class="mt-4">yaya</div>
   </div>
 </template>
 
